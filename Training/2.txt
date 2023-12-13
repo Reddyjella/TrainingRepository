@@ -1,3 +1,6 @@
 Hello this is Second File
 hello
+<<<<<<< HEAD
 This is 2.txt file
+=======
+>>>>>>> 38f855ad2a747849efe68b22b3b9d26e77c0d3b4
