@@ -1,2 +1,6 @@
 Hello this is 11.txt file
+<<<<<<< Updated upstream
 This is main brnach 11.txt
+=======
+hiiiiiiii
+>>>>>>> Stashed changes
